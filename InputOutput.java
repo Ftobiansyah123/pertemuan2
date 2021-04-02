@@ -16,6 +16,8 @@ ID = scanner.nextInt();
 
 System.out.println("Masukan jumlah Digimon: ");
 jmlhDigimon = scanner.nextInt();
+System.out.println("");
+System.out.println("");
 
 System.out.println("====Selamat datang di Battleroyal====");
 System.out.println("  =============Biodata============"); 
